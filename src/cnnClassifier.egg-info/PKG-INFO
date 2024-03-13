@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/rohitkabadi/Chest-Disease-Classification-from-Chest-CT-Scan-Image
+Author: rohitkabadi
+Author-email: rohit.s.kabadi@gmail.com
+Project-URL: Bug Tracker, https://github.com/rohitkabadi/Chest-Disease-Classification-from-Chest-CT-Scan-Image/issues
+License-File: LICENSE
+
 # Chest-Disease-Classification-from-Chest-CT-Scan-Image
 git add .
 
