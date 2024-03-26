@@ -23,16 +23,16 @@ pip install -r requirements.txt
 python app.py
 
 
-Mlflow dagshub connection uri
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-Expriement-demo.mlflow \
-MLFLOW_TRACKING_USERNAME=entbappy \
-MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0 \
-
-
+MLFLOW_TRACKING_URI=https://dagshub.com/rohitkabadi/MLFlow.mlflow \
+MLFLOW_TRACKING_USERNAME=rohitkabadi \
+MLFLOW_TRACKING_PASSWORD=c366d9e0a5a96b91f0a95fbfde85d01af20acbe5 \
 python script.py
+
+
 RUN from bash terminal
-export MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-Expriement-demo.mlflow
 
-export MLFLOW_TRACKING_USERNAME=entbappy 
+export MLFLOW_TRACKING_URI=https://dagshub.com/rohitkabadi/MLFlow.mlflow
 
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
+export MLFLOW_TRACKING_USERNAME=rohitkabadi 
+
+export MLFLOW_TRACKING_PASSWORD=c366d9e0a5a96b91f0a95fbfde85d01af20acbe5
