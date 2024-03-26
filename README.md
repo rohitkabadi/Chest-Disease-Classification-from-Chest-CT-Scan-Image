@@ -25,7 +25,7 @@ python app.py
 
 MLFLOW_TRACKING_URI=https://dagshub.com/rohitkabadi/MLFlow.mlflow \
 MLFLOW_TRACKING_USERNAME=rohitkabadi \
-MLFLOW_TRACKING_PASSWORD=c366d9e0a5a96b91f0a95fbfde85d01af20acbe5 \
+MLFLOW_TRACKING_PASSWORD= \
 python script.py
 
 
